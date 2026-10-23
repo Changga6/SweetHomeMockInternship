@@ -299,7 +299,7 @@ public class DefaultTexturesCatalog extends TexturesCatalog {
                   texturesCatalogFamily + "_" + Locale.getDefault(), key);
             }
           }
-          
+
           @Override
           public Enumeration<String> getKeys() {
             // Not needed
